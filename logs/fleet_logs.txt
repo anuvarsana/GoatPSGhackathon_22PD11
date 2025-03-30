@@ -24358,3 +24358,29 @@
 2025-03-30 21:29:01,179 - INFO - Releasing path for Robot 4 at vertex 9
 2025-03-30 21:29:01,181 - INFO - Releasing path for Robot 4 at vertex 9
 2025-03-30 21:32:22,647 - INFO - Shutting down Fleet Management System
+2025-03-30 22:04:44,195 - INFO - Starting Fleet Management System
+2025-03-30 22:05:32,411 - INFO - Successfully loaded navigation graph: data/nav_graph_2.json
+2025-03-30 22:05:39,790 - INFO - Spawn mode: Click any vertex to spawn a robot
+2025-03-30 22:05:40,982 - INFO - Spawned Robot 1 at vertex 1
+2025-03-30 22:05:46,134 - INFO - Spawned Robot 2 at vertex 2
+2025-03-30 22:05:48,027 - INFO - Task mode: First click a robot, then click destination
+2025-03-30 22:05:50,695 - INFO - Selected Robot 1
+2025-03-30 22:05:52,906 - INFO - Robot 1 reserved vertex 1 and edge 1->8
+2025-03-30 22:05:52,906 - INFO - Robot 1 assigned task: Move from vertex 1 to 8
+2025-03-30 22:05:52,908 - INFO - Assigned Robot 1 to navigate to vertex 8
+2025-03-30 22:05:55,863 - INFO - Selected Robot 2
+2025-03-30 22:05:56,015 - INFO - Releasing path for Robot 1 at vertex 1
+2025-03-30 22:05:56,016 - INFO - Releasing path for Robot 1 at vertex 1
+2025-03-30 22:05:56,117 - INFO - Releasing path for Robot 1 at vertex 8
+2025-03-30 22:05:56,118 - INFO - Releasing path for Robot 1 at vertex 8
+2025-03-30 22:05:56,992 - INFO - Robot 2 reserved vertex 2 and edge 2->1
+2025-03-30 22:05:56,993 - INFO - Robot 2 reserved vertex 1 and edge 1->8
+2025-03-30 22:05:56,993 - INFO - Robot 2 assigned task: Move from vertex 2 to 8
+2025-03-30 22:05:56,994 - INFO - Assigned Robot 2 to navigate to vertex 8
+2025-03-30 22:06:00,274 - INFO - Releasing path for Robot 2 at vertex 2
+2025-03-30 22:06:00,275 - INFO - Releasing path for Robot 2 at vertex 2
+2025-03-30 22:06:03,405 - INFO - Releasing path for Robot 2 at vertex 1
+2025-03-30 22:06:03,406 - INFO - Releasing path for Robot 2 at vertex 1
+2025-03-30 22:06:03,508 - INFO - Releasing path for Robot 2 at vertex 8
+2025-03-30 22:06:03,508 - INFO - Releasing path for Robot 2 at vertex 8
+2025-03-30 22:06:08,413 - INFO - Shutting down Fleet Management System
