@@ -1,11 +1,14 @@
 ﻿# GoatPSGHackathon_22PD11
 
  # **Fleet Management System with Traffic Negotiation**  
-*Hackathon Project Documentation*  
+*Hackathon Project Documentation*
+nav_graph1
 ![image](https://github.com/user-attachments/assets/cc2f0915-c4e4-4484-a366-3201d808e6bf)
 
+nav_graph2
 ![image](https://github.com/user-attachments/assets/8509540c-2536-4697-8adb-fa99343b4cdb)
 
+nav_graph3
 ![image](https://github.com/user-attachments/assets/3d251a4d-951d-4dcf-bffd-165556781662)
 
 
