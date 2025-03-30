@@ -2,6 +2,7 @@
 
  # **Fleet Management System with Traffic Negotiation**  
 *Hackathon Project Documentation*  
+![image](https://github.com/user-attachments/assets/cc2f0915-c4e4-4484-a366-3201d808e6bf)
 
 ---
 
